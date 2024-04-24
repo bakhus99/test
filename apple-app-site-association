@@ -1,0 +1,20 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "D7T73Y4FW4.com.wnfx.blumenBote, "D7T73Y4FW4.com.wnfx.blumenBote" ],
+    "paths": [
+                "*"
+            ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "D7T73Y4FW4.com.wnfx.blumenBote" ]
+   },
+
+
+    "appclips": {
+        "apps": ["D7T73Y4FW4.com.wnfx.blumenBote"]
+    }
+}
